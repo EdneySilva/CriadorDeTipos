@@ -1,0 +1,6 @@
+c:\users\edneysilva\documents\visual studio 2015\Projects\CriadorDeTipos\CriadorDeTipos\bin\Debug\CriadorDeTipos.exe.config
+c:\users\edneysilva\documents\visual studio 2015\Projects\CriadorDeTipos\CriadorDeTipos\bin\Debug\CriadorDeTipos.exe
+c:\users\edneysilva\documents\visual studio 2015\Projects\CriadorDeTipos\CriadorDeTipos\bin\Debug\CriadorDeTipos.pdb
+c:\users\edneysilva\documents\visual studio 2015\Projects\CriadorDeTipos\CriadorDeTipos\obj\Debug\CriadorDeTipos.csprojResolveAssemblyReference.cache
+c:\users\edneysilva\documents\visual studio 2015\Projects\CriadorDeTipos\CriadorDeTipos\obj\Debug\CriadorDeTipos.exe
+c:\users\edneysilva\documents\visual studio 2015\Projects\CriadorDeTipos\CriadorDeTipos\obj\Debug\CriadorDeTipos.pdb
